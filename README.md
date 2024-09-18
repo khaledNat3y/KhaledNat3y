@@ -41,5 +41,5 @@ I am a dedicated Flutter developer with one year of hands-on experience in mobil
 
 ## Contact
 
-- **Email:** khaled.example@gmail.com
+- **Email:** khalednatey85@gmail.com
 - **LinkedIn:** [linkedin.com/khaled-nat3y](https://www.linkedin.com/in/khaled-nat3y-a057462a1/)

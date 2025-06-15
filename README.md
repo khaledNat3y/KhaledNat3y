@@ -25,7 +25,7 @@ I am a dedicated Flutter developer with one year of hands-on experience in mobil
 
 ## Education
 
-- 3rd Year Computer Science Student
+- 4rd Year Computer Science Student
 
 ---
 
